@@ -1,0 +1,83 @@
+img {
+  height: 100vh;
+  width: auto;
+  position: relative;
+}
+
+.btn1,
+.btn2,
+.btn3,
+.btn4,
+.btn5 {
+  cursor: pointer;
+}
+.btn1 {
+  position: absolute;
+  left: 21%;
+  top: 34%;
+  border-radius: 20px;
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  color: aliceblue;
+}
+p {
+  width: 200px;
+  border: 1px solid grey;
+  color: black;
+  background-color: aquamarine;
+  border-radius: 15px;
+  padding: 10px 0;
+}
+
+.btn2 {
+  position: absolute;
+  left: 40%;
+  top: 50%;
+  border-radius: 20px;
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  color: aliceblue;
+}
+.btn3 {
+  position: absolute;
+  left: 55%;
+  top: 56%;
+  border-radius: 20px;
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  color: aliceblue;
+}
+.btn4 {
+  position: absolute;
+  left: 20%;
+  top: 85%;
+  border-radius: 20px;
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  color: aliceblue;
+}
+
+.btn5 {
+  position: absolute;
+  left: 80%;
+  top: 85%;
+  border-radius: 20px;
+  width: 25px;
+  height: 25px;
+  font-size: 20px;
+  border: none;
+  background-color: teal;
+  color: aliceblue;
+}
