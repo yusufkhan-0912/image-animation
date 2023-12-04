@@ -1,16 +1,14 @@
-img {
+button {
+  cursor: pointer;
+  font-size: 16px;
+}
+
+video {
   height: 100vh;
   width: auto;
   position: relative;
 }
 
-.btn1,
-.btn2,
-.btn3,
-.btn4,
-.btn5 {
-  cursor: pointer;
-}
 .btn1 {
   position: absolute;
   left: 21%;
